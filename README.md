@@ -9,7 +9,7 @@ MarketIO is an e-commerce product comparison platform that scrapes products in r
 3. Watchlist for users to track specific products
 
 ## Installation
-1. Clone this project using git clone: ````git clone https://github.com/marvine9830/MarketIO````
+1. Clone this project using git clone: ````git clone https://github.com/guilmola724/market-io-Django-Next.js.git````
 2. Add a .env file in the root folder of this project with the following variables:
 ````
 DJANGO_SECRET_KEY = "<any randomly generated string with 64 alphanumeric characters>"
